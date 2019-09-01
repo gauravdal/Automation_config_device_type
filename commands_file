@@ -1,0 +1,4 @@
+no ip domain-lookup
+line console 0
+ logging synchronous
+ no exec-timeout

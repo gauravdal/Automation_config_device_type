@@ -1,0 +1,12 @@
+no ip domain-lookup
+line console 0
+logging synchronous
+no exec-timeout
+vlan 10
+name python_automation_10
+vlan 20
+name python_automation_20
+vlan 30
+name python_automation_30
+vlan 40
+name python_automation_40
